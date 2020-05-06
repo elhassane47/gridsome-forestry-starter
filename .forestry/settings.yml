@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: directory
   path: blog
-  label: Projects
+  label: blog
   create: documents
   match: "**/*.md"
   templates:
